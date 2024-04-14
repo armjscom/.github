@@ -8,6 +8,7 @@ To join our community:
 
 1. Follow our organization's page on GitHub.
 2. We will review your profile and send you an invitation via email shortly.
+3. After joining, find your profile in the "People" section and set your visibility to public.
 
 ## Benefits of Joining
 
